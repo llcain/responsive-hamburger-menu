@@ -8,4 +8,14 @@ nav {
   display: flex;
   justify-content: space-around;
   align-items: center;
+  min-height: 8vh;
+  background-color: #5d4954;
+  font-family: "Public Sans", sans-serif;
+  font-family: "Roboto Mono", monospace;
+}
+
+.nav-link {
+  display: flex;
+  justify-content: space-around;
+  width: 40%;
 }/*# sourceMappingURL=responsive-hamburger.css.map */
