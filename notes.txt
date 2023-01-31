@@ -1,1 +1,4 @@
 Google - bootstrap navigation bar with hamburger button - https://stackoverflow.com/questions/26317679/how-to-add-hamburger-menu-in-bootstrap
+Google - how to open repository in github desktop - https://collectionbuilder.github.io/cb-docs/docs/repository/open/ - https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop
+Google - how to add text file to gitignore - https://www.alphr.com/gitignore-file-how-to-use-one/ - *.txt
+Google - how to add text file to gitignore - https://www.w3schools.com/git/git_ignore.asp?remote=github
