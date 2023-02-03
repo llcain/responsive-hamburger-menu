@@ -126,4 +126,49 @@ nav {
 
 .toggle .line3 {
   transform: rotate(45deg) translate(-5px, -6px);
+}
+
+.boxes {
+  border: 3px solid lightgray;
+  position: relative;
+}
+
+.box {
+  width: 5rem;
+  height: 5rem;
+}
+
+.box-one {
+  background-color: gold;
+}
+
+.box-two {
+  background-color: tomato;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.box-three {
+  background-color: dodgerblue;
+}
+
+.container {
+  border: 3px solid purple;
+}
+
+.box1 {
+  width: 5rem;
+  height: 5rem;
+  background-color: red;
+  margin: 1rem;
+}
+
+.burger {
+  width: 1rem;
+  height: 1rem;
+}
+
+.line1 {
+  color: hotpink;
 }/*# sourceMappingURL=responsive-hamburger.css.map */

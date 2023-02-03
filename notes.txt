@@ -3,3 +3,4 @@ Google - how to open repository in github desktop - https://collectionbuilder.gi
 Google - how to add text file to gitignore - https://www.alphr.com/gitignore-file-how-to-use-one/ - *.txt
 Google - how to add text file to gitignore - https://www.w3schools.com/git/git_ignore.asp?remote=github
 Google -  mixin in scss - https://sass-lang.com/documentation/at-rules/mixin
+Google - how to make burger menu html css - https://alvarotrigo.com/blog/hamburger-menu-css/
